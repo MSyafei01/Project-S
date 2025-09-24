@@ -147,7 +147,7 @@ h2::after {
               url('../img/hero-bg.jpg');
   background-size: cover;
   background-position: center;
-  height: 25vh;
+  height: 40vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
