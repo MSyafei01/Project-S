@@ -3,17 +3,17 @@ const products = [
   {
     name: "Bouquet Mawar Merah",
     price: "Rp 250.000",
-    image: "E:/KULIAH/PELATIHAN IT/Dicoding/Tahap3/css/img/bunga.jpg"
+    image: "https://github.com/MSyafei01/Project-S/blob/master/mawarmerah.jpg"
   },
   {
     name: "Bouquet Tulip",
     price: "Rp 350.000",
-    image: "E:/KULIAH/PELATIHAN IT/Dicoding/Tahap3/css/img/bunga.jpg"
+    image: "https://github.com/MSyafei01/Project-S/blob/master/mawarmerah.jpg"
   },
   {
     name: "Bouquet Lily",
     price: "Rp 300.000",
-    image: "E:/KULIAH/PELATIHAN IT/Dicoding/Tahap3/css/img/bunga.jpg"
+    image: "https://github.com/MSyafei01/Project-S/blob/master/mawarmerah.jpg"
   }
 ];
 
